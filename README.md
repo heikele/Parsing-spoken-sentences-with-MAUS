@@ -1,7 +1,7 @@
 # Parsing-spoken-sentences-with-MAUS
-Examples of scripts for parsing spoken sentences with the Munich AUtomatic Segmentation toolbox in Python. 
+Examples of script for parsing spoken sentences with the Munich AUtomatic Segmentation toolbox in Python. 
 
-All of these scripts require an empty "targetfile", there is one uploaded that is fit for purpose.
+An empty "targetfile" is required, there is one uploaded that is fit for purpose.
 
 # BASICS
 Covers how to upload audio files (.wav) and transcripts (.txt) to parse spoken sentences for word onsets and offsets and how to parse for phonemes. This is an especially useful way to identify onsets (or offsets) of target words.
